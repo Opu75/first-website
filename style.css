@@ -1,0 +1,25 @@
+h1{
+    font-size: 50px;
+    font-family:'roboto': sans-serif
+}
+.name-highlight{
+                color: blueviolet;
+}
+p{
+    font-size: medium;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("Images/top-banner.png");
+}
+section{
+    height: 500px;
+}
