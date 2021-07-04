@@ -3,7 +3,7 @@ h1{
 }
 body{
     Margin: 0px;
-    font-family:'roboto': sans-serif
+    font-family:'roboto'; sans-serif:
 }
 .name-highlight{
                 color: blueviolet;
@@ -21,7 +21,7 @@ img{
     width: 100%;
 }
 .top-banner{
-    background-image: url("Images/top-banner.png");
+    background-image: url img/("Images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -29,7 +29,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image:linear-gradient(light green,red,black) 
+    background-image:linear-gradient(to right, green,red,black) 
     padding: 10px 20px;
     border-radius: 10px;
     text-decoration-color: rgba(255, 255, 255, 0.37);
