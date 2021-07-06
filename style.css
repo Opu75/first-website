@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    font-family: 'roboto',sans-serif;
+    font-family: 'Roboto',sans-serif;
     padding-bottom: 25px;
 }
 h1{
@@ -29,6 +29,17 @@ section{
     margin-left: 5%;
     padding-left: 2%;
 }
+.half{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-area{
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 2%;
+}
 .left-content{
     margin-top: 10%;
 }
@@ -47,5 +58,28 @@ section{
 .Dream-area{
     background-image: url("img/dream-bg.png");
     background-repeat: no-repeat;
-    background-position: right;
+    background-position:right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height:40%;
+    background-color: white;
+}
+.experience-area{
+    background-image: url("img/exp-bg.png");
+    background-repeat: no-repeat;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
